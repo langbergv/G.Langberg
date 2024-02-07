@@ -2,6 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	 font: 100%/1.4 Apple Chancery, cursive;
 }
 .homePage {
 	background: #222222;
@@ -30,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #7AB8EB;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -43,4 +44,13 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
+}
+a:link {
+     color: #EBC797;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
