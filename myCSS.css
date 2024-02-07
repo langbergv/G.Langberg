@@ -5,7 +5,7 @@ body {
 	 font: 100%/1.4 Apple Chancery, cursive;
 }
 .homePage {
-	background: #222222;
+	background: #276A99;
 }
 .container {
 	width: 960px;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #96B1EB;
+	background: #8BABEB;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -31,14 +31,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: ##96C4EB;
+	background: #96C4EB;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: ##8DC1EA;
+	background: #8DC1EA;
 	margin: 0px;
 	float: left;
 	width: 100%;
